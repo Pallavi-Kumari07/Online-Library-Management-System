@@ -41,37 +41,35 @@ It is good to have basic knowledge of HTML, CSS, PHP and MySQL to understand thi
 
 # Screenshots
 
-![Screenshot 2025-04-15 221440](https://github.com/user-attachments/assets/eb24c497-215e-473c-82ca-d55ce65c05aa)
+![Screenshot 2025-04-15 221440](https://github.com/user-attachments/assets/30c25571-07fb-42b6-b8d7-d0af5dd81c20)
 ***
 
-![Screenshot 2025-04-15 221500](https://github.com/user-attachments/assets/57dc019c-f07e-49ee-999f-ec78517a82dc)
+![Screenshot 2025-04-15 221500](https://github.com/user-attachments/assets/97da30bc-3731-48a6-89e8-fcd2d70a7ea7)
 ***
 
-![Screenshot 2025-04-15 221553](https://github.com/user-attachments/assets/01b2382f-dbe5-40a8-8523-9b555b467820)
+![Screenshot 2025-04-15 221553](https://github.com/user-attachments/assets/ec3903b1-72f7-46b4-b3cf-2c8a6eb970c1)
 ***
 
-![Screenshot 2025-04-15 221657](https://github.com/user-attachments/assets/4b545721-8a84-4e00-baf9-2793becb7ed1)
+![Screenshot 2025-04-15 221657](https://github.com/user-attachments/assets/5d0eda3e-e0bd-474e-a2ab-1e6cd25f96bb)
 ***
 
-![Screenshot 2025-04-15 221717](https://github.com/user-attachments/assets/33eeef9c-26de-4c82-b08d-de73e606e2f2)
+![Screenshot 2025-04-15 221717](https://github.com/user-attachments/assets/18c0a6ed-eb80-44f2-ac20-e6cf1e340b37)
 ***
 
-![Screenshot 2025-04-15 221740](https://github.com/user-attachments/assets/e186a4fd-39de-4f84-820d-3eca86f52bdc)
+![Screenshot 2025-04-15 221740](https://github.com/user-attachments/assets/d69487ca-7759-487d-8164-b02b848927c0)
 ***
 
-![Screenshot 2025-04-15 221820](https://github.com/user-attachments/assets/2729c419-1f2f-4f56-ac7d-af4bb07ad3fe)
+![Screenshot 2025-04-15 221820](https://github.com/user-attachments/assets/cbfd4817-0236-419a-b5a0-38d92980f425)
 ***
 
-![Screenshot 2025-04-15 234112](https://github.com/user-attachments/assets/99a14583-da2e-4568-89fd-aaf87d0e9ecb)
+![Screenshot 2025-04-15 234112](https://github.com/user-attachments/assets/4d709e77-1b58-4bf7-916b-231580f81c28)
 ***
 
-![Screenshot 2025-04-15 235801](https://github.com/user-attachments/assets/b4dbea04-e8dd-44be-a25c-57731eeb850f)
+![Screenshot 2025-04-15 235801](https://github.com/user-attachments/assets/62b7785b-0cdb-4503-94be-a2e18590362d)
 ***
 
-![Screenshot 2025-04-15 235856](https://github.com/user-attachments/assets/c8729167-e2f0-4c3f-993c-804003e3abb3)
+![Screenshot 2025-04-15 235856](https://github.com/user-attachments/assets/5f2ff66a-97db-45d7-9116-055283e644e9)
 ***
 
-![Screenshot 2025-04-15 235949](https://github.com/user-attachments/assets/2681f338-7325-4e71-a1bb-12541ca872d6)
+![Screenshot 2025-04-15 235949](https://github.com/user-attachments/assets/30551b8d-8835-44ca-b90a-4c76f86949d6)
 ***
-
-![Screenshot 2025-04-16 000053](https://github.com/user-attachments/assets/c15df23a-deee-4823-a8ba-0f0545afac1b)
