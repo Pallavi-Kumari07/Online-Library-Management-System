@@ -1,31 +1,43 @@
-# Library-Management-System
+# 📚 Online Library Management System
 
-Hi!, welcome to my repository. The **Library Management System (LMS)** is developed for transforming manual offline workload into online automatic system. It contains all the main 
-features such as adding and managing students, books with efficiently maintaining their data. It also contains other security features such as **Captcha Verification** and 
-**Password Encryption**. This is a complete LMS with all the necessary functionalties. It also provides feature to **generate report** and **manage fine**.
+An Online Library Management System that helps libraries automate and streamline their day-to-day operations, such as generating reports, managing books, publications, users, issues, returns and fines. The system supports both administrators and regular users (students/readers) with dedicated functionalities for each.
 
-Note: This is an extended version of Library Management System that can be found [here](https://phpgurukul.com/online-library-management-system/). I have added more advance functionalities like **report generation**.
+## 🚀 Features
+
+- 📖 Add, update, delete and search books
+- 👤 Register and login for both admin and user roles
+- 📥 Issue and return books with due date tracking
+- 💸 Fine calculation for late returns
+- 📊 View transaction history and current borrow status
+- 🔍 Advanced search by title, author, publication or genre
+- 📋 Admin dashboard for managing inventory and users & generating reports
+
+## 🛠️ Tech Stack
+
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: PHP
+- **Database**: MySQL
+- **Tools**: XAMPP
+
 
 # Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
+The following instructions will help you access this project on your local machine for development and testing purposes. 
 
-## Prerequisites
+## 🏗️ Prerequisites
 
 It is good to have basic knowledge of HTML, CSS, PHP and MySQL to understand this project.
->We will use XAMP server as it has cross-platform support and we won't be needed to worry about the operating system support.
-Download and install suitable XAMP server from this link - https://www.apachefriends.org/download.html
+>This project has been built using XAMPP for the database. Download and install suitable XAMPP server.
 
 ## Setting up the environment
 
 - Download and extract project source code on your local machine.
-- Paste the source code in the htdocs folder. Default path will be here("C:\xampp\htdocs")
-- Open XAMP Control Panel and start Apache & MySQL service
+- Paste the source code in the htdocs folder. Default path will be here("C:\xampp\htdocs").
+- Open XAMPP Control Panel and start Apache & MySQL services.
 - Open your web browser and paste this link ("http://localhost/phpmyadmin/"). It should open database server page.
 - Create new empty database named library. Select the library database and import the SQL file given with the source code.
 - Review the config file from both of the includes folders. Change username and password accordingly.
 - Open your web browser and paste this link ("http://localhost/foldername-in-htdocs-directory/"). It should open login page.
-- Use any credentials from database to login. The password for all accounts is set to **Test@123**
 
 # Screenshots
 
